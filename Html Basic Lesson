@@ -1,1 +1,26 @@
-
+<html>
+<head>
+<title></title>
+</head>
+<body>
+1)html tag is describes the web page
+2)body tag is the main content
+<h1>heading tag</h1>
+3)h1 tag is displayed as a heading. Heading <h1> to <h6> tag
+<p>paragraph</p>
+4)p tag is a paragraph 
+<a href="www.google.com">link to google</a>
+5)a href tag is a link to url . This example has to google.com
+<img src="photo.jpg" width="104" height="142"/>
+6)img tag show a image in your site  width and height is some properties. src is the local path of your photo.
+<hr>
+7) hr tag creates horizontal line in an html page
+<!--COMMENTS HERE -->
+8)this tag is for comments . Notice comments dont appear on the main webbsite.
+<br>
+9)br tag change the line on a webbsite.
+<i>italic text </i>
+<strong>strong text</strong>
+<b>bold text</b>
+</body>
+</html>
