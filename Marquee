@@ -1,0 +1,69 @@
+<style>
+.blue {
+    background: #454545;
+}
+
+.news {
+    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4), 0 5px 10px rgba(0,0,0,0.5);
+       width: 1600px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 4px;
+    padding: 1px;
+    -webkit-user-select: none;
+}
+
+.news span {
+    float: right;
+    color: #fff;
+    padding: 9px;
+    position: relative;
+    top: 1%;
+    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4);
+    font: 16px 'Raleway', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    cursor: pointer;
+}
+
+.text1{
+
+ box-shadow:none !important;
+    width: 1600px;
+}
+</style>
+
+
+<div class="news blue">
+<span class="text1" ><marquee>
+╿Rufus: Βασικο εργαλειο για την διαδικασια Format ╿ Ventoy : create bootable USB
+ ╿Εγκατασταση πολλων προγραμματων μαζι (Ninite)
+╿Aυτόματη αναζήτηση για διαγραφή κενών φακέλων στα Windows με την χρηση ενος προγραμματος
+╿Google chrome:δακτυλικό αποτύπωμα
+Vlc : O καλυτερος αναπαραγωγεας πολυμεσων ╿
+Διαγραφη cookies:Google chrome,firefox,edge
+Καθαρισμα προσωρινης μνημης στον Google chrome ╿
+╿Εγκατασταση πολλων προγραμματων μαζι (Ninite) ╿
+╿Aυτόματη αναζήτηση για διαγραφή κενών φακέλων στα Windows με την χρηση ενος προγραμματος ╿
+╿Καθαρισμα DNS στον Google Chrome
+ ╿YouTube: Τέλος οι overlay διαφημίσεις από τον επόμενο μήνα.╿
+Καλωδιο οπτικης ινας ╿
+Τεχνικη μεταγωγης κυκλώματος ╿
+Μεταγωγη Πακετων:Mε αυτοδυναμα πακετα ╿
+Μεταγωγη Πακετων:Με νοητο κυκλωμα ╿
+Τοπικα δικτυα LAN (Local Area Network) ╿
+Mητροπολιτικα δικτυα (Metropolitan area network) ╿
+Δικτυα ευρειας περιοχης(Wide area network) ╿
+Mοντελο client-server ╿
+Teletype Network Protocol (Telnet) ╿
+Teletype Network Protocol (Telnet) ╿
+H εντολη ifconfig (Linux) ╿
+Αυξηση/Μειωση εντασης υπολογιστη (LINUX) ╿
+Bασικες εντολες Τerminal σε Ubuntu ╿
+Τερματισμος λειτουργιας,επανεκκίνηση  υπολογιστη (Linux) ╿
+Ασυρματα ακουστικα I7 tws mini ╿
+Huawei Power Bank 10000 MAH ╿
+Folding Mobile phone (Fashion Boutique Bracket) ╿
+Wireless backlit Mini keyboard (Savio model KW-02) ╿
+</marquee></span>
+</div>
