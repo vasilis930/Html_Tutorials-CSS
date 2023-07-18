@@ -1,0 +1,49 @@
+<!doctype html>
+<style>
+div.scrollmenu {
+   background-color:#454545;
+ overflow: auto;
+  white-space: nowrap; 
+ width:850%;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align:right;
+  padding: 12px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: red;
+}
+
+img{
+color:white;
+background-color:yellow;
+}
+</style>
+<hr />
+<div class="scrollmenu">
+<a href="https://vstavroulakisblog.blogspot.com/"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUa9npnsr7IJhscCpL5pXtIfiQfArTvqwJL3f1hlojfcx2cZOXAoAFzQSSWYfeEWE9cKE6RF0qLLVlMV1LrTBk7JHHNv38a4kZLgQqeEqnNH-KbhCcOfEqTzB3Wv6Semc4sz8QUYvRm9OAE_wL-TRjDi5u9o3DkSDZTsqb327LeQpK16gv9wgTsqdBNA/s200/icons8-home-24.png" /> &emsp; ΑΡΧΙΚΗ</a>
+
+<a href="https://vstavroulakisblog.blogspot.com/p/projects.html"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5EuOquX1N9WA4M4Lr2hxQmOMvu8h99YvMGkDX-0zPwwfi8zld5RWPYXVtH5PQEwhWdwb0q08VaWdJ8_i1d-bMtBGdC9zQyqsU7cuwt9nj8GXdyikEOC1k__FZrLyovS0wjDXS6WYMxwF0IMjgZYj9SiZ0BSXTn95ye-JWaPdGmdvTkVSBGwWlw7IZhA/s200/icons8-learn-web-design-and-development-with-sitepoint-tutorials-24.png" />&emsp;ΓΡΑΜΜΗ ΕΝΤΟΛΩΝ</a>
+
+
+<a href="https://vstavroulakisblog.blogspot.com/p/videos_19.html"><img alt="" border="0" width="20" data-original-height="512" data-original-width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEUMdXIOPJFDNj-KOwYvyU_e2ve89ulBw4gxC_gjmOTl39pW0ix8ZDk273kSNKnayAhmQjs2coMkrOdxcCHgEncdm5EDV_tqDEljfcXWTdOeZ9kUqGDk5b9bW5IAj0rtHnQsmYjN2If8LFrw8LVFBz59_A1RVRCtoco2LeAt9nmdb2v0Xwfik9x-BLQ/s200/download-circular-button.png"/>&emsp;GADGETS</a>
+
+<a href="https://vstavroulakisblog.blogspot.com/p/gadgets.html"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5EuOquX1N9WA4M4Lr2hxQmOMvu8h99YvMGkDX-0zPwwfi8zld5RWPYXVtH5PQEwhWdwb0q08VaWdJ8_i1d-bMtBGdC9zQyqsU7cuwt9nj8GXdyikEOC1k__FZrLyovS0wjDXS6WYMxwF0IMjgZYj9SiZ0BSXTn95ye-JWaPdGmdvTkVSBGwWlw7IZhA/s200/icons8-learn-web-design-and-development-with-sitepoint-tutorials-24.png" />&emsp;ΤΕΧΝΟΛΟΓΙΑ</a>
+
+<a href="https://vstavroulakisblog.blogspot.com/p/videos_5.html">
+<img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8BMpjFuLQztUoHXJVhHJ1jxoe97Z-8tIYGikXic-AWjzGwwPFmQNj6ky2sL-3_J0i7JHgg93VHmdM74zlTu2GAxE6jsDU_bv_nLIph9uiIXrDPDPdZ2D1YMrL_K5W5Cgle8hC5mllIIrwSxCs7BRDsQheYQNZ99qS2U034G46l971fPjzkNW_T_gYLg/s200/applications.png" />&emsp;ΕΦΑΡΜΟΓΕΣ</a>
+
+
+<a href="https://vstavroulakisblog.blogspot.com/p/blog-page_3.html"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqNFkn8RUfhe9CaFI7zLsgIpo1xd0S_Al0rooRfWMmx96OHpxAruT1q2ZEL_jseLqWw6dnhwmrfJVM1Mz8mt4QsjBJUA_NfN0HGSHqa_QYryTHeDva6UGR8R1zIQplTgru2TcHFwbsIaS3h4YcHeDd4Ikt_fgLuQ0imp5eUgh_Mg6TLhb6L0FG8ZGcPQ/s200/%E2%80%94Pngtree%E2%80%94software%20engineering_8663909.png" />&emsp;ΠΡΟΓΡΑΜΜΑΤΑ</a>
+
+
+<a href="https://vstavroulakisblog.blogspot.com/p/about.html"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie3rJO6GVNJ_Bc7gFF4ls63yI_mvd1zVjREEli6hUh3myQLWprNU_8Y4eUaqiJSNa7iqZLDzIZcm6-td8K5hVs3PNyKql_XHrF0BZGi-l--P8B65u9tAf7zSremFUiOjF36EWWTItagbheHcfVq1Vud6L4pO4z1Kuk15ILUFQ-zhnhlJzthj_lJw8XOQ/s200/AB.png" />&emsp;ΒΙΟΓΡΑΦΙΚΟ</a>
+
+<a href="https://vstavroulakisblog.blogspot.com/p/contact.html"><img width="20" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-p_S5jLYtzbcBBUEslPM_zC-4UIRt7n09o9iRjAfw4Lckgbsw0DLSc6R67-LlrZd3Pc8DwTIQeOX6XYNREI0xa96UukjLXV21LyfU_1TrR9wILSsuz4Ns_hU8B2CRcTJKClqMwO9VAjwpqiaFdhEQKoTDClgCEU662zwVqLSXHlq9HibvTKrFy7VoZw/s200/contacts.png" />&emsp;ΕΠΙΚΟΙΝΩΝΙΑ</a>
+</div></!doctype>
+<hr />
